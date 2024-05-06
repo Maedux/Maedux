@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Maedux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Maedux/Maedux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- #### OLÁ BEM VONDOS AO MEU PERFIL❤❤❤
+- ESTOU ESTUDANDO NO [ALURA](https://www.alura.com.br)
+- Esou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minhaorganização e compartilhamentos dos meus projetos desenvolvidos
+- #### VOCÊ PODE ENTRAR EM CONTATO COMIGO:📫
+- me2302616@gmail.com
+- @Maedux
+- ![](https://media1.tenor.com/m/pAqsgZlftrQAAAAC/lookatme-hey.gif)
