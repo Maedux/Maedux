@@ -1,4 +1,4 @@
-- #### OLÁ BEM VONDOS AO MEU PERFIL❤❤❤
+- #### OLÁ BEM VINDOS AO MEU PERFIL❤❤❤
 
 - Meu nome é Maria Eduarda
 
