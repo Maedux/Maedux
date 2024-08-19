@@ -10,6 +10,6 @@
 
 - me2302616@gmail.com
 
-- @Maedux
+- @M.duds!
 
 - ![](https://media1.tenor.com/m/pAqsgZlftrQAAAAC/lookatme-hey.gif)
